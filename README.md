@@ -1,6 +1,3 @@
-<img align="center" alt="atom" width="100%" src="https://github.com/alifeyzi01/alifeyzi01/blob/main/tenor.gif?raw=true" />
-
-<br/>
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <br/>
 
